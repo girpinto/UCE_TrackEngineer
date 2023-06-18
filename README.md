@@ -1,5 +1,5 @@
 ### Hi there 👋, Track Engineer on board
-This is the official GitHub account for UniNa Corse E-Team's Track Engineer. 
+This is the official GitHub account for UniNa Corse E-Team's Track Engineer. [UninaCorseIcon](images/GIALLO_Logo (1).ico)
 
 The Track Engineer is responsible for ensuring the best performance of the car on the track. The dynamic acceleration, skid-pad, autocross and endurance tests are handled by the Track Engineer at 360 degrees. 
 
