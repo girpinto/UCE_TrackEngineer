@@ -24,7 +24,7 @@ Actually drivers are:
 | Vassura Ricambi | http://ecommerce.vassuraricambi.it/# | Via Nuova Poggioreale, 48A, 80143 Napoli NA | +39 081.5538209 | [info@vassuraricambi.it](mailto:info@vassuraricambi.it) | Non Contattato | Non Contattato |  To Define |
 | OMP Racing | https://www.ompracing.com/it_it/ |  Via E. Bazzano, 5 - 16019 Ronco Scrivia (Ge) | NAN | Not Found | Non Contattato | Non Contattato | To Define |
 
-# Kertodromi/Autodromi 
+# Kartodromi/Autodromi 
 | Nome | Website | Luogo | Telefono | Mail | Contattato/Non Contattato | Disponibile a partnership? | Preventivo (EUR) |
 |--------|----------|---------|----------|-------|-------------------------------|------------------------------|--------------------|
 | CIRCUITO INTERNAZIONALE DI NAPOLI (SARNO) | http://www.circuitointernazionalenapoli.com/ | Via Sarno-Palma 84087 SARNO (SA) ITALY | +39 081 968229 oppure +39 3756977160 | [info@circuitointernazionalenapoli.com](mailto:info@circuitointernazionalenapoli.com) | Non Contattato | Non Contattato | NAN |
