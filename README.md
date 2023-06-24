@@ -1,5 +1,5 @@
-### Hi there 👋, Track Engineer on board
-This is the official GitHub account for UniNa Corse E-Team's Track Engineer. <img alt="UniNa Corse Icon" src="/images/GIALLO_Logo (1).ico" width="25px">
+# Hi there 👋, Track Engineer on board
+This is the official GitHub repository for UniNa Corse E-Team's Track Engineer. <img alt="UniNa Corse Icon" src="/images/GIALLO_Logo (1).ico" width="25px">
 
 The Track Engineer is responsible for ensuring the best performance of the car on the track. The dynamic acceleration, skid-pad, autocross and endurance tests are handled by the Track Engineer at 360 degrees. 
 
@@ -12,10 +12,12 @@ His duties must cover:
 
 This profile is intended to maintain the timeline and to track all the jobs that should be done in the future months.
 
-Actually drivers are:
-- Mariano Baruffini (Member of Firmware Division)
-- Brunella Maria Sveva Sparaco (Member of Cockpit and Ergonomics Division)
-- Andrea Orabona (Head Division for Structural Dynamics Division)
+# Drivers
+| Nome | Cognome | Reparto | Area | Altezza | Peso | 
+|------|---------|---------|------|---------|------|
+| Mariano | Baruffini | Firmware | Elettrica | NAN | NAN |
+| Brunella | Sparaco | Cockpit and Ergonomics | Meccanica | NAN | NAN |
+| Andrea | Orabona | Structural Dynamics | Meccanica | NAN | NAN |
 
 
 # Aziende Racingwear
